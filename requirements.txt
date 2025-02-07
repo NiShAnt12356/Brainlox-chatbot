@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain_huggingface
+langchain_google_genai
+langchain_core
+flask
+flask_cors
+python-dotenv
